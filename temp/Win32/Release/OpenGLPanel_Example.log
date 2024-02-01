@@ -1,0 +1,149 @@
+﻿  MyForm.cpp
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\products\GeneralBlockPanelKernel.h(2063,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\Paintbrush.h(197,43): warning C4018: '>=': signed/unsigned mismatch
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\Paintbrush.h(220,65): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_face_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{16,{flat}}' }',0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\Paintbrush.h(229,130): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\Paintbrush.h(233,54): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\Paintbrush.h(236,87): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::FaceHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toFaceHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(10,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(120,103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(160,22): warning C4018: '<': signed/unsigned mismatch
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(166,22): warning C4018: '<': signed/unsigned mismatch
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(205,22): warning C4018: '<': signed/unsigned mismatch
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(210,22): warning C4018: '<': signed/unsigned mismatch
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(657,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(663,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(668,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(674,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(791,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(800,32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(994,20): warning C4018: '<': signed/unsigned mismatch
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1001,20): warning C4018: '<': signed/unsigned mismatch
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1015,20): warning C4018: '<': signed/unsigned mismatch
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1019,21): warning C4018: '<': signed/unsigned mismatch
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1200,20): warning C4018: '<': signed/unsigned mismatch
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1204,36): warning C4244: '=': conversion from 'double' to 'Scalar', possible loss of data
+          with
+          [
+              Scalar=float
+          ]
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1205,36): warning C4244: '=': conversion from 'double' to 'Scalar', possible loss of data
+          with
+          [
+              Scalar=float
+          ]
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1323,20): warning C4018: '<': signed/unsigned mismatch
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1339,20): warning C4018: '<': signed/unsigned mismatch
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1365,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp(1366,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\Paintbrush.h(28): warning C4715: 'Paintbrush::AddPaintbrushSize': not all control paths return a value
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp : warning C4793: 'OpenMesh::ArrayKernel::`vcall'{16}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp : warning C4793: 'OpenMesh::ArrayKernel::`vcall'{12}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp : warning C4793: 'OpenMesh::ArrayKernel::`vcall'{4}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+D:\Fundamental_CG\CG_Project3\OpenGLPanel_Example\MyForm.cpp : warning C4793: 'OpenMesh::ArrayKernel::`vcall'{8}'': function compiled as native:
+  	non-clrcall vcall thunks must be compiled as native
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(259): warning C4793: 'Eigen::internal::pset1<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(716): warning C4793: 'Eigen::internal::pload<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(746): warning C4793: 'Eigen::internal::ploadu<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(716): warning C4793: 'Eigen::internal::pload<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(746): warning C4793: 'Eigen::internal::ploadu<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(258): warning C4793: 'Eigen::internal::pset1<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(367): warning C4793: 'Eigen::internal::pdiv<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(716): warning C4793: 'Eigen::internal::pload<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(746): warning C4793: 'Eigen::internal::ploadu<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(716): warning C4793: 'Eigen::internal::pload<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(746): warning C4793: 'Eigen::internal::ploadu<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(347): warning C4793: 'Eigen::internal::pmul<__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(717): warning C4793: 'Eigen::internal::pload<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(751): warning C4793: 'Eigen::internal::ploadu<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(291): warning C4793: 'Eigen::internal::padd<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(791): warning C4793: 'Eigen::internal::pstore<int,Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(790): warning C4793: 'Eigen::internal::pstore<double,__m128d>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(1021): warning C4793: 'Eigen::internal::predux<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(1021): warning C4793: 'Eigen::internal::predux<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(1022): warning C4793: 'Eigen::internal::predux<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(883): warning C4793: 'Eigen::internal::pfirst<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Fundamental_CG\CG_Project3\eigen3\Eigen\src\Core\arch\SSE\PacketMath.h(883): warning C4793: 'Eigen::internal::pfirst<Eigen::internal::eigen_packet_wrapper<__m128i,0> >': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(3162,5): error MSB3821: Couldn't process file MyForm.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file. Remove the mark of the web if you want to process these files.
