@@ -1,0 +1,26 @@
+# Blender MTL File: 'Ash.blend'
+# Material Count: 2
+
+newmtl ash_base_hair
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 0xa52e767fb607596d.png
+map_d 0xa52e767fb607596d.png
+
+newmtl ash_base_head
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 0x412dc4aee2bf3c1f.png
+map_d 0x412dc4aee2bf3c1f.png
